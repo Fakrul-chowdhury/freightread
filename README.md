@@ -84,11 +84,6 @@ Extract the following fields from this trucking Bill of Lading:
 ```
 
 5. Upload a sample bill of lading PDF to train the model, then click **Save**
-6. Go back to the workspace. Look at the **URL in your browser** — it will look like:
-   ```
-   https://app.affinda.com/app/workspaces/AbCdEfGh/documents
-   ```
-   That random string (`AbCdEfGh`) is your **Workspace ID**.
 
 ---
 
