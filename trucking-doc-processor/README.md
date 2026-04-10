@@ -9,6 +9,7 @@ The app dynamically displays **every field Affinda extracts** — add a new fiel
 
 Built as a demonstration of the [Affinda](https://affinda.com) document AI platform, specialised for the trucking industry.
 
+## Here is the demonstration viedo:
 https://youtu.be/iF4oJHZ3jWA
 
 ---
