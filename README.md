@@ -21,6 +21,11 @@ Upload a bill of lading → AI extracts all fields → results appear in a clean
 | Terms & instructions | Freight terms, special instructions |
 
 ---
+## Demonstration 
+
+https://youtu.be/iF4oJHZ3jWA
+
+---
 
 ## Prerequisites
 
